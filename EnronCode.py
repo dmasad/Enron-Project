@@ -59,8 +59,18 @@ def get_header(text):
     lines = text.split("\n")
     state = "START"
     message = {}
+    '''
+    message = {"MessageID": "", 
+        "Date": "",
+        "From": "",
+        "To": [],
+        "Cc": [],
+        "Bcc": [] }
+    '''
     for line in lines:
         #if line[:5] == "Date:":
+        if starts_with(line, "Message-ID:"):
+            message["MessageID"] = line.split(":", 1)[1]
         if starts_with(line, "Date:"):
             message["Date"] = line.split(":", 1)[1]
         elif starts_with(line, "From:"):
@@ -84,4 +94,16 @@ def get_header(text):
         # Begin instructions for multi-line field handling:
         elif state in ["To", "Cc", "Bcc"]:
             message[state] += line
+
+
+    # Clean fields:
+    for key, val in message.items():
+        message[key] = val.replace("\r", "").strip()
+
+
+    # Turn To, Cc, Bcc into lists:
+    for key in ["To", "Cc", "Bcc"]:
+        if key in message:
+            message[key] = [addr.strip() for addr in message[key].split(",")]
+
     return message
