@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="susan.mara@enron.com" />
+    <node id="carolyn.cooney@enron.com" />
+    <node id="dduaran@enron.com" />
+    <node id="kmurray@responsys.com" />
+    <node id="linda.noske@enron.com" />
+    <node id="bente@hevanet.com" />
+    <node id="dueselfr@nmenergy.com" />
+    <node id="garrett.tripp@enron.com" />
+    <node id="kysa.alport@enron.com" />
+    <node id="jim.meyn@enron.com" />
+    <node id="mossyuk@hotmail.com" />
+    <node id="robert.hemstock@enron.com" />
+    <node id="david.delainey@enron.com" />
+    <node id="alan.comnes@enron.com" />
+    <node id="steve.walton@enron.com" />
+    <node id="gautam.gupta@enron.com" />
+    <node id="rogers.herndon@enron.com" />
+    <node id="mark.skowronski@honeywell.com" />
+    <node id="samantha.law@enron.com" />
+    <node id="amy.kim@enron.com" />
+    <node id="maria.arefieva@enron.com" />
+    <node id="louise.kitchen@enron.com" />
+    <node id="bill.rust@enron.com" />
+    <node id="athomas@newenergy.com" />
+    <node id="howard.fromer@enron.com" />
+    <node id="frank.rishe@enron.com" />
+    <node id="nextek3@msn.com" />
+    <node id="juan.hernandez@enron.com" />
+    <node id="john.shelk@enron.com" />
+    <node id="diana.scholtes@enron.com" />
+    <node id="george.wood@enron.com" />
+    <node id="bmiller@hess.com" />
+    <node id="jwilliamson@baughpdx.com" />
+    <node id="hemery@firstunion1.com" />
+    <node id="jerry.moore@enron.com" />
+    <node id="rubena.buerger@enron.com" />
+    <node id="rebecca.cantrell@enron.com" />
+    <node id="christopher.calger@enron.com" />
+    <node id="carin.nersesian@enron.com" />
+    <node id="erwong@worldnet.att.net" />
+    <node id="gloria.ogenyi@enron.com" />
+    <node id="jstewart@cmta.net" />
+    <node id="peichenberger@fce.com" />
+    <node id="isenberg@hmot.com" />
+    <node id="skean@enron.com" />
+    <node id="matt.motley@enron.com" />
+    <node id="rothrock@ix.netcom.com" />
+    <node id="doug.grandy@dgs.ca.gov" />
+    <node id="alberto.levy@enron.com" />
+    <node id="harry.arora@enron.com" />
+    <node id="drothrock@camfg.com" />
+    <node id="schoongl@sce.com" />
+    <node id="ryan.slinger@enron.com" />
+    <node id="jlove@lockeliddell.com" />
+    <node id="hfinken@ect.enron.com" />
+    <node id="kevin_mcdowe11@yahoo.com" />
+    <node id="rob.wheeler@enron.com" />
+    <node id="susan.scott@enron.com" />
+    <node id="jon.bloomfield@verizon.net" />
+    <node id="geir.solberg@enron.com" />
+    <node id="kmccrea@sablaw.com" />
+    <node id="chauncey.hood@enron.com" />
+    <node id="kristin.walsh@enron.com" />
+    <node id="fletcher.sturm@enron.com" />
+    <node id="ghuseb@ardenrealty.com" />
+    <node id="gretchen.lotz@enron.com" />
+    <node id="dshugar@powerlight.com" />
+    <node id="jeff.dasovich@enron.com" />
+    <node id="kate.symes@enron.com" />
+    <node id="charles.decker@enron.com" />
+    <node id="kirsten.bellas@enron.com" />
+    <node id="oscar.dalton@enron.com" />
+    <node id="melinda.pharms@enron.com" />
+    <node id="jna@olywa.net" />
+    <node id="gariepyj@dteenergy.com" />
+    <node id="greenroom@attglobal.net" />
+    <node id="carmen.perez@enron.com" />
+    <node id="bernadette.hawkins@enron.com" />
+    <node id="mark.palmer@enron.com" />
+    <node id="jeff.jacobson@swgas.com" />
+    <node id="dhunter@s-k-w.com" />
+    <node id="robert.stalford@enron.com" />
+    <node id="nick.politis@enron.com" />
+    <node id="edward.sacks@enron.com" />
+    <node id="ginger.dernehl@enron.com" />
+    <node id="creddick@svmg.org" />
+    <node id="jeremy.morris@enron.com" />
+    <node id="janine.migden@enron.com" />
+    <node id="lysherif@yahoo.com" />
+    <node id="susan.j.mara@enron.com" />
+    <node id="daleb@usnr.com" />
+    <node id="chris.dorland@enron.com" />
+    <node id="mike.smith@enron.com" />
+    <node id="tradersnewsindexes@ipgdirect.com" />
+    <node id="heather.dunton@enron.com" />
+    <node id="tie_list_server@nyiso.com" />
+    <node id="feedback@travelocity.m0.net" />
+    <node id="tim.belden@enron.com" />
+    <node id="clower@earthlink.net" />
+    <node id="berney.aucoin@enron.com" />
+    <node id="patrick.keene@enron.com" />
+    <node id="jeff.skilling@enron.com" />
+    <node id="neill@pcez.com" />
+    <node id="vicki.sharp@enron.com" />
+    <node id="pat.shortridge@enron.com" />
+    <node id="craig.dean@enron.com" />
+    <node id="elizabeth.johnston@enron.com" />
+    <node id="al_figueroa@vflet.com" />
+    <node id="ananthasubramaniamg@dteenergy.com" />
+    <node id="ron.mcnamara@enron.com" />
+    <node id="jayme.murray@sen.ca.gov" />
+    <node id="rothrock@enron.com" />
+    <node id="jonathan.teague@dgs.ca.gov" />
+    <node id="spahnn@hnks.com" />
+    <node id="horstg@dteenergy.com" />
+    <node id="paul.thomas@enron.com" />
+    <node id="dpalmer@endecogroup.com" />
+    <node id="daniel.allegretti@enron.com" />
+    <node id="mark.fischer@enron.com" />
+    <node id="bill.williams@enron.com" />
+    <node id="ddessanti@keyspanenergy.com" />
+    <node id="mike.swerzbin@enron.com" />
+    <node id="rudy.acevedo@enron.com" />
+    <node id="kenneth.lay@enron.com" />
+    <node id="jean.dressler@enron.com" />
+    <node id="lysa.tracy@enron.com" />
+    <node id="steve.montovano@enron.com" />
+    <node id="senator.morrow@sen.ca.gov" />
+    <node id="aruby@rubyschofield.com" />
+    <node id="scott.bolton@enron.com" />
+    <node id="leaf.harasin@enron.com" />
+    <node id="fieldejr@sce.com" />
+    <node id="zottermj@hotmail.com" />
+    <node id="drothrock@cmta.net" />
+    <node id="richard.ingersoll@enron.com" />
+    <node id="marty.sunde@enron.com" />
+    <node id="pearce.hammond@enron.com" />
+    <node id="gavin.russo@enron.com" />
+    <node id="narsimha.misra@enron.com" />
+    <node id="smith@enron.com" />
+    <node id="eric.linder@enron.com" />
+    <node id="mbrown9@enron.com" />
+    <node id="phillip.allen@enron.com" />
+    <node id="karen@klindh.com" />
+    <node id="roy.boston@enron.com" />
+    <node id="holden.salisbury@enron.com" />
+    <node id="rlcart@earthlink.net" />
+    <node id="bert.meyers@enron.com" />
+    <node id="mason.hamlin@enron.com" />
+    <node id="lora.sullivan@enron.com" />
+    <node id="terri.clynes@enron.com" />
+    <node id="bvargo@koin.com" />
+    <node id="dominic.dimare@calchamber.com" />
+    <node id="james_trudeau@enron.com" />
+    <node id="joseph.alamo@enron.com" />
+    <node id="w.duran@enron.com" />
+    <node id="jean.ryall@enron.com" />
+    <node id="sgreenberg@realenergy.com" />
+    <node id="djsmith@smithandkempton.com" />
+    <node id="mark.guzman@enron.com" />
+    <node id="robert.williams@enron.com" />
+    <node id="johnj@bcjlaw.com" />
+    <node id="tbischak@cwpla.com" />
+    <node id="charles.yeung@enron.com" />
+    <node id="john.kinser@enron.com" />
+    <node id="jeremy.blachman@enron.com" />
+    <node id="nancy.hetrick@enron.com" />
+    <node id="lindsay.meade@enron.com" />
+    <node id="b..sanders@enron.com" />
+    <node id="kevin.presto@enron.com" />
+    <node id="jeffrey.mcmahon@enron.com" />
+    <node id="christi.nicolay@enron.com" />
+    <node id="michael.tribolet@enron.com" />
+    <node id="guy.sharfman@enron.com" />
+    <node id="ann.cohn@sce.com" />
+    <node id="jaspezia@aol.com" />
+    <node id="joe.allen@enron.com" />
+    <node id="jacobf@hapdx.org" />
+    <node id="patrick.hansen@enron.com" />
+    <node id="trcasten@aol.com" />
+    <node id="rick.bachmeier@enron.com" />
+    <node id="tom.briggs@enron.com" />
+    <node id="ray.alvarez@enron.com" />
+    <node id="jpbatmale@realenergy.com" />
+    <node id="mrbndahaus@aol.com" />
+    <node id="robert.frank@enron.com" />
+    <node id="rpaul@realenergy.com" />
+    <node id="kevinscott@onlinemailbox.net" />
+    <node id="steven.merriss@enron.com" />
+    <node id="guillermo.canovas@enron.com" />
+    <node id="joe.gordon@enron.com" />
+    <node id="tom.may@enron.com" />
+    <node id="harry.kingerski@enron.com" />
+    <node id="lloyd.will@enron.com" />
+    <node id="miguel.garcia@enron.com" />
+    <node id="dtownley@newenergy.com" />
+    <node id="tristan.brunin@yoshida.com" />
+    <node id="kwitcosky@portlanddev.org" />
+    <node id="lara.leibman@enron.com" />
+    <node id="abb@eslawfirm.com" />
+    <node id="aevanloon@hotmail.com" />
+    <node id="larry.decker@enron.com" />
+    <node id="elizabeth.linnell@enron.com" />
+    <node id="mike.carson@enron.com" />
+    <node id="paul.kaufman@enron.com" />
+    <node id="margaret.huson@enron.com" />
+    <node id="jxm@cpuc.ca.gov" />
+    <node id="kkranz@nyiso.com" />
+    <node id="linda.robertson@enron.com" />
+    <node id="jdasovic@enron.com" />
+    <node id="jeff.ader@enron.com" />
+    <node id="janel.guerrero@enron.com" />
+    <node id="fino.tiberi@enron.com" />
+    <node id="tom.alonso@enron.com" />
+    <node id="don.baughman@enron.com" />
+    <node id="dcashdan@realenergy.com" />
+    <node id="kathy.mongeon@enron.com" />
+    <node id="dgoldstein@nrdc.org" />
+    <node id="eric.benson@enron.com" />
+    <node id="aaron.brown@enron.com" />
+    <node id="jaw@wei-air.com" />
+    <node id="billb@endecon.com" />
+    <node id="donald.lassere@enron.com" />
+    <node id="hbp1@email.msn.com" />
+    <node id="jeff.king@enron.com" />
+    <node id="david.fairley@enron.com" />
+    <node id="mmolland@brobeck.com" />
+    <node id="sscott3@enron.com" />
+    <node id="j.kaminski@enron.com" />
+    <node id="pmeringolo@brobeck.com" />
+    <node id="jason.thompkins@enron.com" />
+    <node id="adsmith@brobeck.com" />
+    <node id="robert.badeer@enron.com" />
+    <node id="gayres@socalgas.com" />
+    <node id="joe.connor@enron.com" />
+    <node id="mike.roan@enron.com" />
+    <node id="doug.sewell@enron.com" />
+    <node id="dgrueneich@gralegal.com" />
+    <node id="aleck.dadson@enron.com" />
+    <node id="mpalmer@enron.com" />
+    <node id="marc.ulrich@enron.com" />
+    <node id="kathleen.sullivan@enron.com" />
+    <node id="arguedas@caclaw.net" />
+    <node id="steven.bloch@honeywell.com" />
+    <node id="marchris.robinson@enron.com" />
+    <node id="lys@aelaw.com" />
+    <node id="bill.moore@enron.com" />
+    <node id="jon.gail@hcs.state.or.us" />
+    <node id="brbarkovich@earthlink.net" />
+    <node id="janelle.scheuer@enron.com" />
+    <node id="john.llodra@enron.com" />
+    <node id="bevin.hunter@enron.com" />
+    <node id="kduggan@capstoneturbine.com" />
+    <node id="john.moore@enron.com" />
+    <node id="stephen.burns@enron.com" />
+    <node id="heather.kroll@enron.com" />
+    <node id="cpthoff@nmhg.com" />
+    <node id="lcampbel@enron.com" />
+    <node id="rhalstead@pdx.edu" />
+    <node id="jeff.richter@enron.com" />
+    <node id="lys@a-klaw.com" />
+    <node id="meringolo@enron.com" />
+    <node id="dlappi@ardenrealty.com" />
+    <node id="market_relations@nyiso.com" />
+    <node id="c..williams@enron.com" />
+    <node id="stella.chan@enron.com" />
+    <node id="chalnan@ns.net" />
+    <node id="dan.staines@enron.com" />
+    <node id="amr.ibrahim@enron.com" />
+    <node id="barbara.hueter@enron.com" />
+    <node id="terri.miller@enron.com" />
+    <node id="matt.lorenz@enron.com" />
+    <node id="richard.shapiro@enron.com" />
+    <node id="vinio.floris@enron.com" />
+    <node id="laurie.knight@enron.com" />
+    <node id="susan.landwehr@enron.com" />
+    <node id="'morse@enron.com" />
+    <node id="edward.baughman@enron.com" />
+    <node id="michael.rosen@enron.com" />
+    <node id="dave.mangskau@enron.com" />
+    <node id="jeff.brown@enron.com" />
+    <node id="frank.ferris@enron.com" />
+    <node id="pws-fab1@siltronic.com" />
+    <node id="ksmith@powerlight.com" />
+    <node id="jill.chatterton@enron.com" />
+    <node id="paul.broderick@enron.com" />
+    <node id="morse@enron.com" />
+    <node id="lisa.yoho@enron.com" />
+    <node id="sue.nord@enron.com" />
+    <node id="janet.dietrich@enron.com" />
+    <node id="geriann.warner@enron.com" />
+    <node id="stewart@enron.com" />
+    <node id="nextek1@msn.com" />
+    <node id="iris.mack@enron.com" />
+    <node id="kerry.stroup@enron.com" />
+    <node id="m..driscoll@enron.com" />
+    <node id="mark.bernstein@enron.com" />
+    <node id="erwon@worldnet.att.net" />
+    <node id="larry.valderrama@enron.com" />
+    <node id="hmak@socalqds.com" />
+    <node id="maureen.mcvicker@enron.com" />
+    <node id="christopher.watts@enron.com" />
+    <node id="bharsh@puget.com" />
+    <node id="lance.hinrichs@enron.com" />
+    <node id="tocchionero@agcc.org" />
+    <node id="steven.kean@enron.com" />
+    <node id="jbradley@svmg.org" />
+    <node id="john.postlethwaite@enron.com" />
+    <node id="sarah.novosel@enron.com" />
+    <node id="ttotten@nyiso.com" />
+    <node id="gfergus@brobeck.com" />
+    <node id="allison.navin@enron.com" />
+    <node id="fran.chang@enron.com" />
+    <node id="bdunlop@gralegal.com" />
+    <node id="donna.fulton@enron.com" />
+    <node id="wichert@fuelcells.org" />
+    <node id="thane.twiggs@enron.com" />
+    <node id="vjw@cleanpower.org" />
+    <node id="robert.neustaedter@enron.com" />
+    <node id="difellman@energy-law-group.com" />
+    <node id="chris.long@enron.com" />
+    <node id="andy.rodriquez@enron.com" />
+    <node id="mark.davis@enron.com" />
+    <node id="fergus@enron.com" />
+    <node id="jeff_dasovich@enron.com" />
+    <node id="charles.r.budd@ucm.com" />
+    <node id="laura.podurgiel@enron.com" />
+    <node id="james.steffes@enron.com" />
+    <node id="germain.palmer@enron.com" />
+    <node id="john.forney@enron.com" />
+    <node id="leslie.lawner@enron.com" />
+    <node id="accountinformation@community.nextcard.com" />
+    <node id="gary.matteson@ucop.edu" />
+    <node id="crisman@west.net" />
+    <node id="tom.hoatson@enron.com" />
+    <node id="moorecm@bp.com" />
+    <node id="hmertens@energy.twc.com" />
+    <node id="todd.bland@enron.com" />
+    <node id="egarcia@ka-pow.com" />
+    <node id="lmacktal@cmta.net" />
+    <node id="joannie.williamson@enron.com" />
+    <node id="isas@wscc.com" />
+    <node id="jeff.merola@enron.com" />
+    <node id="rob.bradley@enron.com" />
+    <node id="kerr68@earthlink.net" />
+    <node id="phillip.platter@enron.com" />
+    <node id="nick.cimino@dgs.ca.gov" />
+    <node id="sean.crandall@enron.com" />
+    <node id="tim.charters@mail.house.gov" />
+    <node id="dennis.randall@opuswest.com" />
+    <node id="john.lavorato@enron.com" />
+    <node id="luiz.maurer@enron.com" />
+    <node id="frank_frankini@equityoffice.com" />
+    <node id="todoc1@aol.com" />
+    <node id="v..porter@enron.com" />
+    <node id="dave.perrino@enron.com" />
+    <node id="chris.mallory@enron.com" />
+    <node id="karen.denne@enron.com" />
+    <node id="agalit@ladwp.com" />
+    <node id="meltzerlaw@aol.com" />
+    <node id="greg.whalley@enron.com" />
+    <node id="mona.petrochko@enron.com" />
+    <edge source="susan.mara@enron.com" target="janel.guerrero@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="paul.kaufman@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="richard.shapiro@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="karen.denne@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="mark.palmer@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="robert.frank@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="james.steffes@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="susan.landwehr@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="steven.kean@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="jeff.dasovich@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.mara@enron.com" target="leslie.lawner@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="robert.badeer@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="john.postlethwaite@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="holden.salisbury@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="samantha.law@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="chris.mallory@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="tim.belden@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="fran.chang@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="mark.fischer@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="diana.scholtes@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="matt.motley@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="bill.williams@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="jeremy.morris@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="phillip.platter@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="tom.alonso@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="jeff.richter@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="sean.crandall@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="m..driscoll@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="heather.dunton@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kysa.alport@enron.com" target="mike.swerzbin@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="howard.fromer@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="richard.shapiro@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="mason.hamlin@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="dan.staines@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="mark.bernstein@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="john.shelk@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="lloyd.will@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="donna.fulton@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="ray.alvarez@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="thane.twiggs@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="robert.stalford@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="george.wood@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="sarah.novosel@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="pearce.hammond@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="nick.politis@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="edward.sacks@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="sscott3@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="narsimha.misra@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="janelle.scheuer@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="lance.hinrichs@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="john.llodra@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="charles.yeung@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="mbrown9@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="jim.meyn@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="chris.long@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="janine.migden@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="steve.montovano@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="rob.wheeler@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="jeff.ader@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="andy.rodriquez@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="mark.davis@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="jason.thompkins@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="susan.landwehr@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="janel.guerrero@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="linda.robertson@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="alan.comnes@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="john.lavorato@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="susan.j.mara@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="joe.gordon@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="edward.baughman@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="gautam.gupta@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="james.steffes@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="christi.nicolay@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="kerry.stroup@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="tom.may@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="mpalmer@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="dave.mangskau@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="garrett.tripp@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="rogers.herndon@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="jeff.brown@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="frank.ferris@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="mike.roan@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="steven.kean@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="pat.shortridge@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="kathleen.sullivan@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="dave.perrino@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="paul.broderick@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="paul.thomas@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="karen.denne@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="jeff.dasovich@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="tom.hoatson@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="daniel.allegretti@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="charles.decker@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="louise.kitchen@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="kevin.presto@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="greg.whalley@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="aleck.dadson@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="w.duran@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="berney.aucoin@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="rick.bachmeier@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="howard.fromer@enron.com" target="tom.briggs@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="hemery@firstunion1.com" target="skean@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jlove@lockeliddell.com" target="jeff.skilling@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="susan.mara@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="richard.shapiro@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="dominic.dimare@calchamber.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="dhunter@s-k-w.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="marty.sunde@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="ann.cohn@sce.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="vjw@cleanpower.org">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="robert.williams@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="paul.kaufman@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="kmccrea@sablaw.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="phillip.allen@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="vicki.sharp@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="linda.robertson@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="jdasovic@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="brbarkovich@earthlink.net">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="christopher.calger@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="susan.landwehr@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="kristin.walsh@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="janel.guerrero@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="lysherif@yahoo.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="david.delainey@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="john.lavorato@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="isenberg@hmot.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="skean@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="jeremy.blachman@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="james.steffes@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="mike.smith@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="michael.tribolet@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="lys@a-klaw.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="mpalmer@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="harry.kingerski@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="tim.belden@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="karen.denne@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="schoongl@sce.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="louise.kitchen@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="fieldejr@sce.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="greg.whalley@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="janet.dietrich@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jeff.dasovich@enron.com" target="drothrock@cmta.net">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="susan.mara@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="carolyn.cooney@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="dan.staines@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="amr.ibrahim@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="ray.alvarez@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="linda.noske@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="barbara.hueter@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="patrick.keene@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="richard.shapiro@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="vinio.floris@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="robert.frank@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="laurie.knight@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="pat.shortridge@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="robert.hemstock@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="susan.landwehr@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="alan.comnes@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="ron.mcnamara@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="guillermo.canovas@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="dave.mangskau@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="harry.kingerski@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="amy.kim@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="maria.arefieva@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="lisa.yoho@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="stephen.burns@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="geriann.warner@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="frank.rishe@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="john.shelk@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="lara.leibman@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="kerry.stroup@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="larry.decker@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="elizabeth.linnell@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="paul.kaufman@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="margaret.huson@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="jean.dressler@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="lysa.tracy@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="fino.tiberi@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="daniel.allegretti@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="rubena.buerger@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="linda.robertson@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="steve.montovano@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="carin.nersesian@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="janel.guerrero@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="gloria.ogenyi@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="maureen.mcvicker@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="alberto.levy@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="kathy.mongeon@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="sue.nord@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="eric.benson@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="sarah.novosel@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="scott.bolton@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="howard.fromer@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="allison.navin@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="richard.ingersoll@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="donald.lassere@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="donna.fulton@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="thane.twiggs@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="robert.neustaedter@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="chris.long@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="chauncey.hood@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="andy.rodriquez@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="roy.boston@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="joe.connor@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="steven.kean@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="mike.roan@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="aleck.dadson@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="germain.palmer@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="jeff.dasovich@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="leslie.lawner@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="lora.sullivan@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="kathleen.sullivan@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="marchris.robinson@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="tom.hoatson@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="rebecca.cantrell@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="kirsten.bellas@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="melinda.pharms@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="joseph.alamo@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="susan.scott@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="carmen.perez@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="bernadette.hawkins@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="jean.ryall@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="bill.moore@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="ginger.dernehl@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="charles.yeung@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="bevin.hunter@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="janine.migden@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="nancy.hetrick@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="lindsay.meade@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="terri.miller@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="luiz.maurer@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="christi.nicolay@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="steve.walton@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="dave.perrino@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="james.steffes@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="mona.petrochko@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="joe.allen@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="stella.chan@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ginger.dernehl@enron.com" target="tom.briggs@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="creddick@svmg.org" target="jbradley@svmg.org">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="janine.migden@enron.com" target="roy.boston@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="janine.migden@enron.com" target="mike.roan@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="janine.migden@enron.com" target="james.steffes@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="janine.migden@enron.com" target="christi.nicolay@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="janine.migden@enron.com" target="susan.landwehr@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="janine.migden@enron.com" target="marc.ulrich@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="janine.migden@enron.com" target="rogers.herndon@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="janine.migden@enron.com" target="guy.sharfman@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="janine.migden@enron.com" target="jeff.merola@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="feedback@travelocity.m0.net" target="lcampbel@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="v..porter@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="greenroom@attglobal.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="kevin_mcdowe11@yahoo.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="kwitcosky@portlanddev.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="kerr68@earthlink.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="bill.williams@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="neill@pcez.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="jon.bloomfield@verizon.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="jon.gail@hcs.state.or.us">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="aevanloon@hotmail.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="mark.guzman@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="bente@hevanet.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="geir.solberg@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="jwilliamson@baughpdx.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="kysa.alport@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="eric.linder@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="phillip.platter@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="mossyuk@hotmail.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="mrbndahaus@aol.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="jeremy.morris@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="craig.dean@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="cpthoff@nmhg.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="steven.merriss@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="daleb@usnr.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="leaf.harasin@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="rhalstead@pdx.edu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="kmurray@responsys.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="pws-fab1@siltronic.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="bert.meyers@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="jill.chatterton@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="bvargo@koin.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="jacobf@hapdx.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="kate.symes@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="ryan.slinger@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="zottermj@hotmail.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="tristan.brunin@yoshida.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.williams@enron.com" target="todd.bland@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="egarcia@ka-pow.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="gary.matteson@ucop.edu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="nextek3@msn.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="lys@aelaw.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="al_figueroa@vflet.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="nextek1@msn.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="bdunlop@gralegal.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="djsmith@smithandkempton.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="abb@eslawfirm.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="jeff.jacobson@swgas.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="hbp1@email.msn.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="wichert@fuelcells.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="clower@earthlink.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="ddessanti@keyspanenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="vjw@cleanpower.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="senator.morrow@sen.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dueselfr@nmenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="johnj@bcjlaw.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="jxm@cpuc.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="difellman@energy-law-group.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="jaw@wei-air.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="billb@endecon.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dominic.dimare@calchamber.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="nick.cimino@dgs.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="trcasten@aol.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="tbischak@cwpla.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dennis.randall@opuswest.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="karen@klindh.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="rpaul@realenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="steven.bloch@honeywell.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="erwong@worldnet.att.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="spahnn@hnks.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="erwon@worldnet.att.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="jeff_dasovich@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="gayres@socalgas.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="bmiller@hess.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="tim.charters@mail.house.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="jpbatmale@realenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="ghuseb@ardenrealty.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="ananthasubramaniamg@dteenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="hmak@socalqds.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="jayme.murray@sen.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="charles.r.budd@ucm.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="rlcart@earthlink.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="rothrock@ix.netcom.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dgrueneich@gralegal.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="doug.grandy@dgs.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="sgreenberg@realenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dshugar@powerlight.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="moorecm@bp.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dcashdan@realenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="jonathan.teague@dgs.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="tocchionero@agcc.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="mark.skowronski@honeywell.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="ksmith@powerlight.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="'morse@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dlappi@ardenrealty.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="hfinken@ect.enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="jaspezia@aol.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="kduggan@capstoneturbine.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dgoldstein@nrdc.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="drothrock@camfg.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="horstg@dteenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="gariepyj@dteenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dpalmer@endecogroup.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="crisman@west.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="agalit@ladwp.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="james_trudeau@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="todoc1@aol.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="dtownley@newenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="frank_frankini@equityoffice.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="athomas@newenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="peichenberger@fce.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="jna@olywa.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="hmertens@energy.twc.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="sgreenberg@realenergy.com" target="chalnan@ns.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="michael.tribolet@enron.com" target="susan.mara@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="michael.tribolet@enron.com" target="james.steffes@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="michael.tribolet@enron.com" target="harry.kingerski@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="michael.tribolet@enron.com" target="jeff.dasovich@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="egarcia@ka-pow.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="gary.matteson@ucop.edu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="nextek3@msn.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="lys@aelaw.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="al_figueroa@vflet.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="nextek1@msn.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="bdunlop@gralegal.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="djsmith@smithandkempton.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="abb@eslawfirm.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="jeff.jacobson@swgas.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="hbp1@email.msn.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="wichert@fuelcells.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="clower@earthlink.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="ddessanti@keyspanenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="vjw@cleanpower.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="senator.morrow@sen.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dueselfr@nmenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="johnj@bcjlaw.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="jxm@cpuc.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="difellman@energy-law-group.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="jaw@wei-air.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="billb@endecon.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dominic.dimare@calchamber.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="nick.cimino@dgs.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="trcasten@aol.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="tbischak@cwpla.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dennis.randall@opuswest.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="karen@klindh.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="rpaul@realenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="steven.bloch@honeywell.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="erwong@worldnet.att.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="erwon@worldnet.att.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="jeff_dasovich@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="gayres@socalgas.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="bmiller@hess.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="tim.charters@mail.house.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="ghuseb@ardenrealty.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="ananthasubramaniamg@dteenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="hmak@socalqds.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="jayme.murray@sen.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="charles.r.budd@ucm.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="rlcart@earthlink.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="rothrock@ix.netcom.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dgrueneich@gralegal.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="doug.grandy@dgs.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="sgreenberg@realenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dshugar@powerlight.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="moorecm@bp.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dcashdan@realenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="jonathan.teague@dgs.ca.gov">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="tocchionero@agcc.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="mark.skowronski@honeywell.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="ksmith@powerlight.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="spahnn@hnks.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dlappi@ardenrealty.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="hfinken@ect.enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="jaspezia@aol.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="kduggan@capstoneturbine.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dgoldstein@nrdc.org">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="drothrock@camfg.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="horstg@dteenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="morse@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="gariepyj@dteenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dpalmer@endecogroup.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="crisman@west.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="agalit@ladwp.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="james_trudeau@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="todoc1@aol.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="dtownley@newenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="frank_frankini@equityoffice.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="athomas@newenergy.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="peichenberger@fce.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="jna@olywa.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="hmertens@energy.twc.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="jxm@cpuc.ca.gov" target="chalnan@ns.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="kkranz@nyiso.com" target="market_relations@nyiso.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="adsmith@brobeck.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="gfergus@brobeck.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="arguedas@caclaw.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="meringolo@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="b..sanders@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="meltzerlaw@aol.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="pmeringolo@brobeck.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="smith@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="c..williams@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="aruby@rubyschofield.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="mmolland@brobeck.com" target="fergus@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="bill.moore@enron.com" target="gavin.russo@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.moore@enron.com" target="donald.lassere@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.moore@enron.com" target="richard.shapiro@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.moore@enron.com" target="jerry.moore@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.moore@enron.com" target="janine.migden@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bill.moore@enron.com" target="john.moore@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="susan.landwehr@enron.com" target="jeff.dasovich@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="susan.landwehr@enron.com" target="leslie.lawner@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="iris.mack@enron.com" target="j.kaminski@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="iris.mack@enron.com" target="harry.arora@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="iris.mack@enron.com" target="kenneth.lay@enron.com">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="christopher.watts@enron.com" target="tradersnewsindexes@ipgdirect.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="christopher.watts@enron.com" target="don.baughman@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="bharsh@puget.com" target="isas@wscc.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="steven.kean@enron.com" target="aaron.brown@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="steven.kean@enron.com" target="kevinscott@onlinemailbox.net">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="steven.kean@enron.com" target="michael.rosen@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="steven.kean@enron.com" target="donna.fulton@enron.com">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="steven.kean@enron.com" target="jeffrey.mcmahon@enron.com">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="steven.kean@enron.com" target="joannie.williamson@enron.com">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="steven.kean@enron.com" target="janet.dietrich@enron.com">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="ttotten@nyiso.com" target="tie_list_server@nyiso.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="richard.shapiro@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="dan.staines@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="juan.hernandez@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="terri.clynes@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="dduaran@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="jeff.king@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="ray.alvarez@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="david.fairley@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="chris.dorland@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="sscott3@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="matt.lorenz@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="mike.carson@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="john.kinser@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="steve.montovano@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="elizabeth.johnston@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="fletcher.sturm@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="joe.connor@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="heather.kroll@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="larry.valderrama@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="john.lavorato@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="edward.baughman@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="doug.sewell@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="laura.podurgiel@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="gretchen.lotz@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="james.steffes@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="christi.nicolay@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="john.forney@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="rudy.acevedo@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="rogers.herndon@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="steven.kean@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="nick.politis@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="lloyd.will@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="patrick.hansen@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="sarah.novosel@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="louise.kitchen@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="bill.rust@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="miguel.garcia@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="kevin.presto@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="greg.whalley@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donna.fulton@enron.com" target="oscar.dalton@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="accountinformation@community.nextcard.com" target="don.baughman@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="lmacktal@cmta.net" target="jstewart@cmta.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="lmacktal@cmta.net" target="stewart@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="lmacktal@cmta.net" target="drothrock@cmta.net">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="lmacktal@cmta.net" target="rothrock@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="rob.bradley@enron.com" target="richard.shapiro@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="rob.bradley@enron.com" target="james.steffes@enron.com">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="rob.bradley@enron.com" target="jeff.dasovich@enron.com">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>
