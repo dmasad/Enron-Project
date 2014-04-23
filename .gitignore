@@ -13,3 +13,11 @@ TestOut.csv
 Top200.csv
 
 TopActorWaits.csv
+
+*.pickle
+
+*.csv
+
+*.gml
+
+*.graphml
